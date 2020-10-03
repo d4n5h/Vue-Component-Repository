@@ -1,8 +1,8 @@
 {
-  "name": "distributed-vue-applications-loading-components-via-http",
+  "name": "vue-component-repository",
   "version": "0.1.0",
-  "author": "Markus Oberlehner",
-  "homepage": "https://github.com/maoberlehner/distributed-vue-applications-loading-components-via-http",
+  "author": "Daniel Shlomo",
+  "homepage": "https://github.com/d4n5h/Vue-Component-Repository",
   "license": "MIT",
   "private": true,
   "scripts": {
